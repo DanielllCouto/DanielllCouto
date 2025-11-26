@@ -4,7 +4,7 @@ Seja bem-vindo(a)! Eu sou o **Daniel Estrella Couto**, engenheiro civil de forma
 
 -  2 anos tratando dados como matéria-prima na Análise e Ciência de Dados 
 -  12 anos transformando dados em decisões na Engenharia Civil e Gestão de Projetos 
--  MBA em Data Science & Artificial Intelligence (FIAP) – em andamento
+-  MBA em Data Science & Artificial Intelligence (FIAP) 
 
 Com uma sólida base em planejamento e análise de negócios, venho aprofundando minha atuação em **Ciência de Dados e Inteligência Artificial**, aplicando técnicas como machine learning, deep learning e visualização interativa para resolver problemas reais.
 
