@@ -15,11 +15,11 @@ Vamos conectar? [linkedin.com/in/daniel-estrella-couto](https://www.linkedin.com
 ## Tech Skills
 
 **Python**, **SQL**, **Power BI**, **Excel**,  
-**Machine Learning**, **Deep Learning NLP e Visão Computacional**(Básico),  
-**MLOps** (MLflow, CI/CD, GitHub Actions), **APIs REST** (FastAPI),  
-**Cloud**, **AWS** (Lambda, API Gateway, ECR, S3, CloudWatch), **GCP** (BigQuery, Data Lakes, Looker) (AWS, GCP), **Docker**, **Git**,  
-**ETL**, **EDA**, **Feature Engineering**, **Dashboards**,  
-**Jupyter Notebook**
+**Machine Learning**, **MLOps** (MLflow, CI/CD, GitHub Actions),  
+**APIs REST** (FastAPI), **Deep Learning NLP e Visão Computacional**(Básico),   
+**Cloud**, **AWS** (Lambda, API Gateway, ECR, S3, CloudWatch), **GCP** (BigQuery, Data Lakes, Looker) (AWS, GCP),  
+**Docker**, **Git**, **ETL**, **EDA**,  
+**Feature Engineering**, **Dashboards**, **Jupyter Notebook**
 
 ---
 
