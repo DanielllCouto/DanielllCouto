@@ -6,7 +6,7 @@ Seja bem-vindo(a)! Eu sou o **Daniel Estrella Couto**, engenheiro civil de forma
 -  12 anos transformando dados em decisões na Engenharia Civil e Gestão de Projetos 
 -  MBA em Data Science & Artificial Intelligence (FIAP) 
 
-Com uma sólida base em planejamento e análise de negócios, venho aprofundando minha atuação em **Ciência de Dados e Inteligência Artificial**, aplicando técnicas como machine learning, deep learning e visualização interativa para resolver problemas reais.
+Com uma sólida base em planejamento e análise de negócios, venho aprofundando minha atuação em **Ciência de Dados e Inteligência Artificial**, aplicando técnicas como machine learning, deep learning, NLP, visão computacional e visualização interativa para resolver problemas reais.
 
 Vamos conectar? [linkedin.com/in/daniel-estrella-couto](https://www.linkedin.com/in/daniel-estrella-couto)
 
@@ -14,10 +14,12 @@ Vamos conectar? [linkedin.com/in/daniel-estrella-couto](https://www.linkedin.com
 
 ## Tech Skills
 
-**Python**, **SQL**, **Power BI**, **Excel Avançado**,  
-**Machine Learning**, **Deep Learning (básico)**, **GCP**,  
-**ETL**, **EDA**, **Dashboards**, **Modelagem Preditiva**,  
-**Git**, **BigQuery**, **Looker**, **Jupyter Notebook**
+**Python**, **SQL**, **Power BI**, **Excel**,  
+**Machine Learning**, **Deep Learning NLP e Visão Computacional**(Básico),  
+**MLOps** (MLflow, CI/CD, GitHub Actions), **APIs REST** (FastAPI),  
+**Cloud**, **AWS** (Lambda, API Gateway, ECR, S3, CloudWatch), **GCP** (BigQuery, Data Lakes, Looker) (AWS, GCP), **Docker**, **Git**,  
+**ETL**, **EDA**, **Feature Engineering**, **Dashboards**,  
+**Jupyter Notebook**
 
 ---
 
@@ -27,7 +29,7 @@ Vamos conectar? [linkedin.com/in/daniel-estrella-couto](https://www.linkedin.com
 -  Integro o grupo **GingaLab**, onde arte, samba e movimento se encontram
 -  Fugi de projetar obras pra projetar modelos — e nunca fui tão feliz!
 -  Amo comer e descobrir restaurantes fora do óbvio
--  Gosto muito de treinar musculação — pra comer mais, com um pouco menos de culpa 
+-  Gosto muito de treinar musculação — também pra poder comer com um pouco menos de culpa 
 
 ---
 
