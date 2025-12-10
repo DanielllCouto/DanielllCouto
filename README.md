@@ -27,7 +27,7 @@ Vamos conectar? [linkedin.com/in/daniel-estrella-couto](https://www.linkedin.com
 
 -  Apaixonado por **dança de salão**, especialmente **Samba de Gafieira**
 -  Integro o grupo **GingaLab**, onde arte, samba e movimento se encontram
--  Fugi de projetar obras pra projetar modelos — e nunca fui tão feliz!
+-  Saí de projetar obras pra projetar modelos — e nunca fui tão feliz!
 -  Amo comer e descobrir restaurantes fora do óbvio
 -  Gosto muito de treinar musculação — também pra poder comer com um pouco menos de culpa 
 
